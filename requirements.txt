@@ -1,0 +1,4 @@
+pyzmq~=19.0.2
+numpy~=1.19.1
+scipy~=1.5.2
+sounddevice~=0.4.1
